@@ -1,5 +1,4 @@
-## Official implementations of `Empirical likelihood approach for high-dimensional
-moment restrictions with dependent data`
+## Official implementations of `Empirical likelihood approach for high-dimensional moment restrictions with dependent data`
 
 ## Introduction
 
