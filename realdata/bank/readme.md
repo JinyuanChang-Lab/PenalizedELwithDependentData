@@ -12,4 +12,4 @@ Logrn_16_2024.csv and market_value.csv
 
 ## Note:
 
-main_iter.R, inference.R, tuing.R and MGARCH_Model_func.R are source files called by real_data_bank.R.
+main_iter.cpp, inference.R, tuing.R and MGARCH_Model_func.R are source files called by real_data_bank.R.
