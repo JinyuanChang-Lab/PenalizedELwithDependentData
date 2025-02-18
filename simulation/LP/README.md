@@ -8,4 +8,4 @@ Run LP_Model_all.R first and then summary_ci.R in res_* folders to get the data 
 
 ## Note:
 
-main_iter.R, inference.R, tuing.R are source files for PEL and PPEL.
+main_iter.cpp, inference.R, tuing.R are source files for PEL and PPEL.
