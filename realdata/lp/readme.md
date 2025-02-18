@@ -10,4 +10,4 @@ lp.csv, lp_high.csv and lp_low.csv are in the res_* folders.
 
 ## Note:
 
-main_iter.R, inference.R, tuing.R and LP_Model_func.R in the res_* folders are source files called by real_data_lp.R.
+main_iter.cpp, inference.R, tuing.R and LP_Model_func.R in the res_* folders are source files called by real_data_lp.R.
