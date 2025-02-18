@@ -4,4 +4,4 @@ Run VAR_Model_all.R in case1 and case2 folders to generate data for Tables 1-2 i
 
 ## Note:
 
-main_iter.R, inference.R, tuing.R are source files for PEL and PPEL.
+main_iter.cpp, inference.R, tuing.R are source files for PEL and PPEL.
