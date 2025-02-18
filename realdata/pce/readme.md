@@ -12,4 +12,4 @@ pce_qt.csv
 
 ## Note:
 
-main_iter.R, inference.R, tuing.R and VAR_Model_func.R are source files called by real_data_pce.R.
+main_iter.cpp, inference.R, tuing.R and VAR_Model_func.R are source files called by real_data_pce.R.
