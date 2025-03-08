@@ -8,7 +8,6 @@ pce_qt.csv
 
 * Run plot_var_coef.R to get Figure 3 in the paper.
 
-* Run plot_colsums.R to ger Figure 4 in the paper.
 
 ## Note:
 
